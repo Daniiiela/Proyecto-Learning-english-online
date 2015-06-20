@@ -1,6 +1,6 @@
 **/admin/**
 **.bak
-web2py/*.log
-web2py/*.pid
+web2py/**.log
+web2py/**.pid
 */parameters_8000.py
 **Thumbs.db
