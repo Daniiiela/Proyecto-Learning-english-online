@@ -1,5 +1,5 @@
 **/admin/**
 **.bak
-web2py/httpserver.**
+web2py/**
 */parameters_8000.py
 **Thumbs.db
